@@ -1,0 +1,47 @@
+[
+  {
+    "id": "EXP-1001",
+    "description": "Team lunch at Mario's Pizzeria",
+    "amount": 124.5,
+    "category": "Meals",
+    "date": "2026-06-15",
+    "status": "Approved",
+    "comment": "Manager approved. Attendees listed: 5 team members."
+  },
+  {
+    "id": "EXP-1002",
+    "description": "Taxi ride to JFK airport",
+    "amount": 65.0,
+    "category": "Transport",
+    "date": "2026-06-20",
+    "status": "Pending",
+    "comment": "Waiting for receipt verification."
+  },
+  {
+    "id": "EXP-1003",
+    "description": "Hotel stay at Hyatt Regency (2 nights)",
+    "amount": 490.0,
+    "category": "Lodging",
+    "date": "2026-06-22",
+    "status": "Approved",
+    "comment": "Under the $250/night limit."
+  },
+  {
+    "id": "EXP-1004",
+    "description": "Premium noise-canceling headphones",
+    "amount": 299.99,
+    "category": "Office Supplies",
+    "date": "2026-06-28",
+    "status": "Rejected",
+    "comment": "Exceeds the $200 yearly home office supplies limit."
+  },
+  {
+    "id": "EXP-1005",
+    "description": "Dinner at Italian Bistro",
+    "amount": 35.2,
+    "category": "Meals",
+    "date": "2026-06-28",
+    "status": "Pending",
+    "comment": "Submitted via Expense Support Agent."
+  }
+]
